@@ -9,7 +9,7 @@
             "Modules\\": "Modules/"
         },
         "files": [
-            "Modules/helper.php"
-        ]
+			"Modules/helper.php"
+		]
     }
 }
